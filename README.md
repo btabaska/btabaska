@@ -1,6 +1,5 @@
 # btabaska
 
-<p align='center'><img src="https://btabaska.github.io/files/logo.png" alt="btabaska" width="100" height="100"></p>
 
 ## About Me
 
